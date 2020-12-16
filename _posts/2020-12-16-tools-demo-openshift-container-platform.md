@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tools demo: OpenShift Container Platform"
-date:   2020-12-17 11:21:20 +0000
+date:   2020-12-16 11:21:20 +0000
 categories: rh demo
 ---
 
@@ -12,6 +12,6 @@ To do this, I had to:
 * find and fork the repo in GitHub.
 * clone my fork into a local repo.
 * check out the target branch, `enterprise-4.6`.
-* add vitally important information, written in Asciidoc, about [spore drive tech](https://memory-beta.fandom.com/wiki/Spore_drive).
+* add vitally important information, written in AsciiDoc, about [spore drive tech](https://memory-beta.fandom.com/wiki/Spore_drive).
 * stage, commit, and push changes to origin.
 

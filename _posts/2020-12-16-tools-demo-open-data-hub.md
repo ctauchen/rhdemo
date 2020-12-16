@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tools demo: Open Data Hub"
-date:   2020-12-17 11:13:20 +0000
+date:   2020-12-16 11:13:20 +0000
 categories: rh demo
 ---
 
@@ -9,12 +9,12 @@ I [forked the GitLab repo](https://gitlab.com/ctauchen/opendatahub.io) for the O
 
 To do this, I had to:
 
-* fork a repo in GitLab
-* clone my fork into a local repo
-* create a branch (`copyedits`)
-* stage, commit, and push changes to origin
-* make a pull request
-* merge `copyedits` to `master`
+* fork a repo in GitLab.
+* clone my fork into a local repo.
+* create a branch (`copyedits`).
+* stage, commit, and push changes to origin.
+* make a pull request.
+* merge `copyedits` to `master`.
 
 
 
